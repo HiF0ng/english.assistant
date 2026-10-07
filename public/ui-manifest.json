@@ -1,0 +1,167 @@
+[
+  {
+    "file": "index.html",
+    "title": "Trang chủ",
+    "role": "public"
+  },
+  {
+    "file": "login.html",
+    "title": "Đăng nhập",
+    "role": "auth"
+  },
+  {
+    "file": "register.html",
+    "title": "Đăng ký",
+    "role": "auth"
+  },
+  {
+    "file": "forgot-password.html",
+    "title": "Khôi phục mật khẩu",
+    "role": "auth"
+  },
+  {
+    "file": "reset-password.html",
+    "title": "Đặt lại mật khẩu",
+    "role": "auth"
+  },
+  {
+    "file": "admin-login.html",
+    "title": "Đăng nhập quản trị",
+    "role": "auth"
+  },
+  {
+    "file": "teacher-dashboard.html",
+    "title": "Tổng quan",
+    "role": "teacher"
+  },
+  {
+    "file": "student-dashboard.html",
+    "title": "Tổng quan",
+    "role": "student"
+  },
+  {
+    "file": "teacher-classes.html",
+    "title": "Quản lý lớp học",
+    "role": "teacher"
+  },
+  {
+    "file": "teacher-class-detail.html",
+    "title": "Chi tiết lớp",
+    "role": "teacher"
+  },
+  {
+    "file": "teacher-class-new.html",
+    "title": "Tạo lớp học",
+    "role": "teacher"
+  },
+  {
+    "file": "student-classes.html",
+    "title": "Lớp của tôi",
+    "role": "student"
+  },
+  {
+    "file": "student-class-detail.html",
+    "title": "Chi tiết lớp",
+    "role": "student"
+  },
+  {
+    "file": "teacher-assignment-new.html",
+    "title": "Tạo bài tập",
+    "role": "teacher"
+  },
+  {
+    "file": "teacher-assignment-preview.html",
+    "title": "Xem trước bài tập",
+    "role": "teacher"
+  },
+  {
+    "file": "teacher-assignment-results.html",
+    "title": "Kết quả bài tập",
+    "role": "teacher"
+  },
+  {
+    "file": "teacher-submissions.html",
+    "title": "Bài tập chờ nhận xét",
+    "role": "teacher"
+  },
+  {
+    "file": "teacher-review.html",
+    "title": "Duyệt bài làm",
+    "role": "teacher"
+  },
+  {
+    "file": "teacher-student-detail.html",
+    "title": "Hồ sơ học sinh",
+    "role": "teacher"
+  },
+  {
+    "file": "teacher-reports.html",
+    "title": "Báo cáo học tập",
+    "role": "teacher"
+  },
+  {
+    "file": "student-assignment-detail.html",
+    "title": "Chi tiết bài tập",
+    "role": "student"
+  },
+  {
+    "file": "student-reading.html",
+    "title": "Làm bài tập",
+    "role": "student"
+  },
+  {
+    "file": "student-listening.html",
+    "title": "Làm bài Listening",
+    "role": "student"
+  },
+  {
+    "file": "student-writing.html",
+    "title": "Làm bài Writing",
+    "role": "student"
+  },
+  {
+    "file": "student-speaking.html",
+    "title": "Làm bài Speaking",
+    "role": "student"
+  },
+  {
+    "file": "student-submissions.html",
+    "title": "Bài đã nộp",
+    "role": "student"
+  },
+  {
+    "file": "student-result-detail.html",
+    "title": "Chi tiết kết quả",
+    "role": "student"
+  },
+  {
+    "file": "student-profile.html",
+    "title": "Hồ sơ học tập",
+    "role": "student"
+  },
+  {
+    "file": "admin.html",
+    "title": "Tổng quan hệ thống",
+    "role": "admin"
+  },
+  {
+    "file": "notifications.html",
+    "title": "Thông báo",
+    "role": "student"
+  },
+  {
+    "file": "settings.html",
+    "title": "Hồ sơ giáo viên",
+    "role": "teacher"
+  },
+  {
+    "file": "403.html",
+    "title": "Không có quyền truy cập",
+    "role": "public"
+  },
+  {
+    "file": "404.html",
+    "title": "Không tìm thấy trang",
+    "role": "public"
+  }
+]
