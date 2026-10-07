@@ -1,0 +1,11 @@
+(node:9692) ExperimentalWarning: stripTypeScriptTypes is an experimental feature and might change at any time
+(Use `node --trace-warnings ...` to show where the warning was created)
+⨯ Another next dev server is already running.
+
+- Local:        http://127.0.0.1:3001
+- PID:          10548
+- Dir:          D:\english.assistant
+- Log:          .next\dev\logs\next-development.log
+
+You can access the existing server at http://127.0.0.1:3001,
+or run taskkill /PID 10548 /F to stop it and start a new one.
